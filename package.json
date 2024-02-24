@@ -1,0 +1,14 @@
+{
+  "name": "node-clustering-example",
+  "version": "1.0.0",
+  "description": "Example on how to use clustering with Express",
+  "main": "server-cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janis Dzikevics",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
